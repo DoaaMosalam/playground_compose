@@ -2,7 +2,7 @@
 Curve RecycerView Of Items Playgrounds by Compose.
 </h1>
 <p align="center">
-<img src="https://www.sixt.tech/assets/jetpack-compose/jetpack-compose.png" width="300" height="200 alt="AndroidLibray"/>
+<img src="https://www.sixt.tech/assets/jetpack-compose/jetpack-compose.png" width="400" height="300" alt="AndroidLibray"/>
 </p>
 
 [![](https://jitpack.io/v/DoaaMosalam/playground_compose.svg)](https://jitpack.io/#DoaaMosalam/playground_compose)
