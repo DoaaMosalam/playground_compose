@@ -1,8 +1,8 @@
 <h1 align="center">
-Curve RecycerView Of Items playgrounds by Compose.
+Curve RecycerView Of Items Playgrounds by Compose.
 </h1>
 <p align="center">
-<img src="https://www.sixt.tech/assets/jetpack-compose/jetpack-compose.png" alt="AndroidLibray"/>
+<img src="https://www.sixt.tech/assets/jetpack-compose/jetpack-compose.png" width="300" height="200 alt="AndroidLibray"/>
 </p>
 
 [![](https://jitpack.io/v/DoaaMosalam/playground_compose.svg)](https://jitpack.io/#DoaaMosalam/playground_compose)
@@ -30,9 +30,16 @@ In summary, the "playground_compose" library empowers Android developers to crea
 
 ## Preview
 <div align="center">
-<br/>
+	
 
-  
+https://github.com/DoaaMosalam/playground_compose/assets/40686512/7fbf9741-7665-4540-9ba1-c73e52146726
+
+
+Screen 1          |  screen 2    
+:-------------------------:|:-------------------------:
+<img src="https://github.com/DoaaMosalam/playground_compose/assets/40686512/3dc208db-34b9-4f4a-bafe-bbaa339130ff" width="400" height="400" /> | <img src="https://github.com/DoaaMosalam/playground_compose/assets/40686512/be9c7aa6-db64-49cf-840a-154e43f42039" width="600" height="400" /> 
+	
+<br/>
 </div>
 
 # Installation
